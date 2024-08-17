@@ -1,1 +1,1 @@
-# js-star
+# js-name
